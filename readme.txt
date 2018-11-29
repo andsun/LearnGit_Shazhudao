@@ -10,5 +10,6 @@
 		{"skinName":"Daisy","picName":"Daisy","unLockLevel":400,"coinPrice":1000},
 		{"skinName":"Ocean","picName":"Ocean","unLockLevel":500,"coinPrice":1000},
 		{"skinName":"Leisure","picName":"Leisure","unLockLevel":600,"coinPrice":1000}],
-	"newaddstr" : "helloGit"	
+	"newaddstr" : "helloGit",
+	"sceondAddstr" : "hello git v2"	
 }
