@@ -15,5 +15,6 @@
 	"thirdAdd": "new add 3",
 	"fourtgadd": "add 4",
 	"fiftyadd" : "add 5",
-	"add6": "add6"
+	"add6": "add6",
+	"add7": 77s
 }
