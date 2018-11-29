@@ -12,5 +12,6 @@
 		{"skinName":"Leisure","picName":"Leisure","unLockLevel":600,"coinPrice":1000}],
 	"newaddstr" : "helloGit",
 	"sceondAddstr" : "hello git v2"	,
-	"thirdAdd": "new add 3"
+	"thirdAdd": "new add 3",
+	"fourtgadd": "add 4"
 }
