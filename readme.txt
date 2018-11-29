@@ -17,4 +17,5 @@
 	"fiftyadd" : "add 5",
 	"add6": "add6",
 	"add7": 77s
+	"add8": 88
 }
